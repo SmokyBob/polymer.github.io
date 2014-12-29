@@ -65,6 +65,7 @@ labriola <labriola@digitalprimates.net>
 Leon de Rijke <leonderijke@gmail.com>
 Mark Healey <mark.healey@markit.com>
 Matthew McNulty <mmcnulty@google.com>
+Mauro Solcia <mauro.solcia@gmail.com>
 Max Heinritz <meh@chromium.org>
 Michael Ries <michael@riesd.com>
 Michael Squashic <msquashic@google.com>
